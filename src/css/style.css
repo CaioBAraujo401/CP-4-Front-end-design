@@ -1,0 +1,26 @@
+header{
+    border-bottom: 1px solid gray;
+}
+
+header>*{
+    margin: 20px;
+    text-decoration: none;
+    color: black;
+    font-family: "Big Shoulders", sans-serif;
+    font-size: 20px;
+}
+
+.home:hover{
+    color: gray;
+    text-decoration: underline;
+}
+.todosProduto:hover{
+    color: gray;
+    text-decoration: underline;
+}
+.contato:hover{
+    color: gray;
+    text-decoration: underline;
+}
+
+
